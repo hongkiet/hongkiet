@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Hong Kiet</h1>
 <h3 align="center">A passionate mobile developer from Viet Nam</h3>
 
+- Olym3 AI [RepAI Kick'in](https://github.com/repaikit/RepAI-Kickin)
+
 - 📫 How to reach me **hongkiet2017@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
